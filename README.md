@@ -2,7 +2,7 @@
 <!--                      SPACE HEADER BANNER                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020010,30:0a0630,60:120840,100:1e0f5c&height=300&section=header&text=LETROY&fontSize=100&fontColor=c4b5fd&animation=fadeIn&fontAlignY=38&desc=ICT%20Applications%20Developer%20%7C%20Cloud%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=17&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020010,30:0a0630,60:120840,100:1e0f5c&height=300&section=header&text=Sihle Dladla&fontSize=100&fontColor=c4b5fd&animation=fadeIn&fontAlignY=38&desc=ICT%20Applications%20Developer%20%7C%20Cloud%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=17&descColor=a78bfa" width="100%"/>
 
 <div align="center">
 
