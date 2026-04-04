@@ -3,12 +3,12 @@
 <!--                    ANIMATED HEADER BANNER                        -->
 <!-- ============================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020010,20:06021a,50:0d0630,80:160a45,100:1e0f5c&height=300&section=header&text=Sihle%20Dladla&fontSize=78&fontColor=c4b5fd&animation=fadeIn&fontAlignY=40&desc=ICT%20Applications%20Developer%20%7C%20Cloud%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16&descColor=8b7fd4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020010,20:06021a,50:0d0630,80:160a45,100:1e0f5c&height=300&section=header&text=Sihle%20Dladla&fontSize=78&fontColor=c4b5fd&animation=fadeIn&fontAlignY=40&desc=ICT%20Applications%20Developer%20%7C%20Cloud%20Certified%20%7C%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16&descColor=8b7fd4" width="100%"/>
 
 <div align="center">
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Building+real-world+impact+from+Gauteng%2C+South+Africa;20%2B+Cloud+Certifications+across+AWS+%C2%B7+Azure+%C2%B7+Google+%C2%B7+Cisco;Creator+of+UMP-CEIS+Emergency+Response+Platform;React+Developer+growing+into+Cloud+Architecture;Engineering+solutions+that+matter" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Building+real-world+impact+from+Gauteng%2C+South+Africa;20%2B+Cloud+Certifications+across+AWS+%C2%B7+Azure+%C2%B7+Google+%C2%B7+Cisco;Contributer+to+UMP-CEIS+Emergency+Response+Platform;React+growing+into+Cloud+Architecture;Engineering+solutions+that+matter" alt="Typing Animation" />
 
 <br/><br/>
 
