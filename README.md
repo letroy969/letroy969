@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26484212/README.md)
+[README (1).md](https://github.com/user-attachments/files/26484448/README.1.md)
 <!-- ============================================================== -->
 <!--                    ANIMATED HEADER BANNER                        -->
 <!-- ============================================================== -->
@@ -8,11 +8,10 @@
 <div align="center">
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=17&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Building+real-world+systems;Android+%7C+Backend+%7C+Cloud;Focused+on+scalable+solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Building+real-world+impact+from+Gauteng%2C+South+Africa;20%2B+Cloud+Certifications+across+AWS+%C2%B7+Azure+%C2%B7+Google+%C2%B7+Cisco;Creator+of+UMP-CEIS+Emergency+Response+Platform;React+Developer+growing+into+Cloud+Architecture;Engineering+solutions+that+matter" alt="Typing Animation" />
 
 <br/><br/>
 
-<!-- SOCIAL LINKS via skillicons -->
 <a href="https://www.linkedin.com/in/sihledladla-dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" title="LinkedIn — Sihle Dladla"/>
 </a>
@@ -77,17 +76,25 @@ Status      : Open to internships and collaborations
 
 <img src="https://skillicons.dev/icons?i=js,java,html,css,python&theme=dark" />
 
+<br/>
+
 **Frameworks & Libraries**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
+
+<br/>
 
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
+<br/>
+
 **Cloud Platforms**
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
+
+<br/>
 
 **Tools & DevOps**
 
@@ -129,35 +136,19 @@ Status      : Open to internships and collaborations
 <div align="center">
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
-
-**UMP-CEIS**
-*Emergency Response Platform*
-
-<img src="https://skillicons.dev/icons?i=react,js,css&theme=dark" height="30"/>
-
-A React-based emergency coordination system featuring real-time triage flow, animated SVG first aid simulations, Web Speech API voice guidance, and a live analytics dashboard — built for real-world impact.
-
-<br/>
-
-[![View](https://img.shields.io/badge/View%20Project-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/letroy969)
-
-</td>
-<td width="33%" valign="top" align="center">
-<div align="center">
-<table>
-<tr>
 
 <td width="33%" valign="top" align="center">
 
-**🎓 Student Card System**  
-*Online Student Card Creation Platform*
+**Student Card System**
+*Online Student Card Platform*
 
 <img src="https://skillicons.dev/icons?i=html,css,js,mysql&theme=dark" height="30"/>
 
-Web-based system that allows students to apply, upload documents, and access a virtual student card, while admins manage approvals and records digitally.
+<br/><br/>
 
-<br/>
+Web-based system allowing students to apply, upload documents, and access a virtual student card, while admins manage approvals and records digitally.
+
+<br/><br/>
 
 [![View](https://img.shields.io/badge/View%20Project-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/letroy969/StudentCardSystem)
 
@@ -165,14 +156,16 @@ Web-based system that allows students to apply, upload documents, and access a v
 
 <td width="33%" valign="top" align="center">
 
-**🚨 UMP-CEIS**  
+**UMP-CEIS**
 *Emergency Response Platform*
 
 <img src="https://skillicons.dev/icons?i=react,js,css&theme=dark" height="30"/>
 
-Real-time emergency coordination system with triage flow, first-aid simulations, voice guidance, and analytics dashboard — built for real-world impact.
+<br/><br/>
 
-<br/>
+Real-time emergency coordination system with triage flow, animated first aid simulations, Web Speech API voice guidance, and a live analytics dashboard — built for real-world impact.
+
+<br/><br/>
 
 [![View](https://img.shields.io/badge/View%20Project-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/letroy969)
 
@@ -180,14 +173,16 @@ Real-time emergency coordination system with triage flow, first-aid simulations,
 
 <td width="33%" valign="top" align="center">
 
-**📊 Data Breach Insights**  
+**Data Breach Insights**
 *Cybersecurity Analytics Dashboard*
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" height="30"/>
 
-Streamlit-based dashboard that transforms breach data into actionable insights using interactive visualizations for security analysis.
+<br/><br/>
 
-<br/>
+Streamlit-based dashboard that transforms breach data into actionable insights using interactive visualizations built for security analysis and reporting.
+
+<br/><br/>
 
 [![View](https://img.shields.io/badge/View%20Project-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/letroy969/DataBreach_Analyzer)
 
@@ -196,6 +191,7 @@ Streamlit-based dashboard that transforms breach data into actionable insights u
 </tr>
 </table>
 </div>
+
 ---
 
 <!-- ============================================================== -->
@@ -205,9 +201,7 @@ Streamlit-based dashboard that transforms breach data into actionable insights u
 ### GitHub Telemetry
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=letroy969&show_icons=true&theme=tokyonight" height="180"/>
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=letroy969&theme=tokyonight" height="180"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=letroy969&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060614&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed&include_all_commits=true&count_private=true" height="175"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com/?user=letroy969&theme=tokyonight&hide_border=true&background=060614&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=6b6b99" height="175"/>
@@ -232,14 +226,15 @@ Streamlit-based dashboard that transforms breach data into actionable insights u
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=letroy969&theme=darkhub" />
+<img src="https://github-profile-trophy.vercel.app/?username=letroy969&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="97%"/>
 
 </div>
 
 ---
 
 <!-- ============================================================== -->
-<!--        CONTRIBUTION SNAKE — Requires GitHub Actions Setup       -->
+<!--                   CONTRIBUTION SNAKE                            -->
+<!--  Setup: add snake.yml to .github/workflows/ then run it once   -->
 <!-- ============================================================== -->
 
 ### Contribution Map
