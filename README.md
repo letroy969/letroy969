@@ -12,7 +12,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=letroy969&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-
+<div align="center"/>
 </div>
 
 <br/>
