@@ -10,21 +10,6 @@
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Building+real-world+impact+from+Gauteng%2C+South+Africa;20%2B+Cloud+Certifications+across+AWS+%C2%B7+Azure+%C2%B7+Google+%C2%B7+Cisco;Contributer+to+UMP-CEIS+Emergency+Response+Platform;React+growing+into+Cloud+Architecture;Engineering+solutions+that+matter" alt="Typing Animation" />
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/sihledladla-dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" title="LinkedIn — Sihle Dladla"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/letroy969" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="42" title="GitHub — letroy969"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:lindaletroy27@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="42" title="Email — lindaletroy27@gmail.com"/>
-</a>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=letroy969&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 
