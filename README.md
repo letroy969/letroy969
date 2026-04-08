@@ -28,7 +28,6 @@
 ### About Me
 
 ```yaml
-<div align="left">
 Name        : Sihle Dladla
 Location    : Gauteng, South Africa
 Education   : Advanced Diploma — ICT Applications Development
@@ -39,12 +38,11 @@ Currently   : Building UMP-CEIS, a React-based Emergency
               animated first aid simulations, Web Speech
               API voice guidance, and live analytics.
 
-Certifications : 20+ across AWS · Azure · Google · Cisco
-Next Target    : AZ-104 → AZ-500 (Azure Security pathway)
+Certifications : 10+ across AWS · Azure · Google · Cisco
 
 Beyond Code : Mentor · Career Strategist · Community Builder
 Status      : Open to internships and collaborations
-<div align="left"/>
+
 ```
 
 
