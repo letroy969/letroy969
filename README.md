@@ -26,8 +26,9 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290"/>
 
 ### About Me
-<div align="right">
+
 ```yaml
+<div align="left">
 Name        : Sihle Dladla
 Location    : Gauteng, South Africa
 Education   : Advanced Diploma — ICT Applications Development
@@ -43,8 +44,9 @@ Next Target    : AZ-104 → AZ-500 (Azure Security pathway)
 
 Beyond Code : Mentor · Career Strategist · Community Builder
 Status      : Open to internships and collaborations
+<div align="left"/>
 ```
-<div align="right"/>
+
 
 <br clear="right"/>
 
