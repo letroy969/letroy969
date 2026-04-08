@@ -11,8 +11,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Building+real-world+impact+from+Gauteng%2C+South+Africa;20%2B+Cloud+Certifications+across+AWS+%C2%B7+Azure+%C2%B7+Google+%C2%B7+Cisco;Contributer+to+UMP-CEIS+Emergency+Response+Platform;React+growing+into+Cloud+Architecture;Engineering+solutions+that+matter" alt="Typing Animation" />
 
 <div align="center">
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Building+real-world+impact+from+Gauteng%2C+South+Africa;20%2B+Cloud+Certifications+across+AWS+%C2%B7+Azure+%C2%B7+Google+%C2%B7+Cisco;Contributor+to+UMP-CEIS+Emergency+Response+Platform;React+growing+into+Cloud+Architecture;Engineering+solutions+that+matter" alt="Typing Animation" />
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=letroy969&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-<div align="center"/>
+
 </div>
 
 <br/>
@@ -23,25 +29,34 @@
 <!--                         ABOUT ME                                -->
 <!-- ============================================================== -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290"/>
-
 ### About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```yaml
 Name        : Sihle Dladla
 Location    : Gauteng, South Africa
+
 Education   : Advanced Diploma — ICT Applications Development
               University of Mpumalanga (UMP)
 
 Currently   : Building UMP-CEIS, a React-based Emergency
-              Response Platform with real-time triage,
-              animated first aid simulations, Web Speech
-              API voice guidance, and live analytics.
+              Response Platform with:
+              - Real-time triage
+              - First aid simulations
+              - Web Speech API guidance
+              - Live analytics dashboard
 
-Certifications : 10+ across AWS · Azure · Google · Cisco
+Certifications : 20+ (AWS · Azure · Google · Cisco)
 
-Beyond Code : Mentor · Career Strategist · Community Builder
-Status      : Open to internships and collaborations
+Next Target    : AZ-104 → AZ-500
+                 (Azure Security Path)
+
+Beyond Code : Mentor · Career Strategist · Builder
+
+Status      : Open to internships & collaborations
 
 ```
 
