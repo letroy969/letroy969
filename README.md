@@ -1,21 +1,30 @@
-[README (1).md](https://github.com/user-attachments/files/26484448/README.1.md)
+[README (1).md](https://github.com/user-attachments/files/26582016/README.1.md)
 <!-- ============================================================== -->
 <!--                    ANIMATED HEADER BANNER                        -->
 <!-- ============================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020010,20:06021a,50:0d0630,80:160a45,100:1e0f5c&height=300&section=header&text=Sihle%20Dladla&fontSize=78&fontColor=c4b5fd&animation=fadeIn&fontAlignY=40&desc=ICT%20Applications%20Developer%20%7C%20Cloud%20Certified%20%7C%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16&descColor=8b7fd4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020010,20:06021a,50:0d0630,80:160a45,100:1e0f5c&height=300&section=header&text=Sihle%20Dladla&fontSize=78&fontColor=c4b5fd&animation=fadeIn&fontAlignY=40&desc=ICT%20Applications%20Developer%20%7C%20Cloud%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16&descColor=8b7fd4" width="100%"/>
 
 <div align="center">
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Building+real-world+impact+from+Gauteng%2C+South+Africa;20%2B+Cloud+Certifications+across+AWS+%C2%B7+Azure+%C2%B7+Google+%C2%B7+Cisco;Contributer+to+UMP-CEIS+Emergency+Response+Platform;React+growing+into+Cloud+Architecture;Engineering+solutions+that+matter" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Building+real-world+impact+from+Gauteng%2C+South+Africa;20%2B+Cloud+Certifications+across+AWS+%C2%B7+Azure+%C2%B7+Google+%C2%B7+Cisco;Creator+of+UMP-CEIS+Emergency+Response+Platform;React+Developer+growing+into+Cloud+Architecture;Engineering+solutions+that+matter" alt="Typing Animation" />
 
-<div align="center">
+<br/><br/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=17&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Building+real-world+impact+from+Gauteng%2C+South+Africa;20%2B+Cloud+Certifications+across+AWS+%C2%B7+Azure+%C2%B7+Google+%C2%B7+Cisco;Contributor+to+UMP-CEIS+Emergency+Response+Platform;React+growing+into+Cloud+Architecture;Engineering+solutions+that+matter" alt="Typing Animation" />
+<a href="https://www.linkedin.com/in/sihledladla-dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" title="LinkedIn — Sihle Dladla"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/letroy969" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="42" title="GitHub — letroy969"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:lindaletroy27@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="42" title="Email — lindaletroy27@gmail.com"/>
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=letroy969&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -29,37 +38,27 @@
 <!--                         ABOUT ME                                -->
 <!-- ============================================================== -->
 
-### About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290"/>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+### About Me
 
 ```yaml
 Name        : Sihle Dladla
 Location    : Gauteng, South Africa
-
 Education   : Advanced Diploma — ICT Applications Development
               University of Mpumalanga (UMP)
 
 Currently   : Building UMP-CEIS, a React-based Emergency
-              Response Platform with:
-              - Real-time triage
-              - First aid simulations
-              - Web Speech API guidance
-              - Live analytics dashboard
+              Response Platform with real-time triage,
+              animated first aid simulations, Web Speech
+              API voice guidance, and live analytics.
 
-Certifications : 20+ (AWS · Azure · Google · Cisco)
+Certifications : 20+ across AWS · Azure · Google · Cisco
+Next Target    : AZ-104 → AZ-500 (Azure Security pathway)
 
-Next Target    : AZ-104 → AZ-500
-                 (Azure Security Path)
-
-Beyond Code : Mentor · Career Strategist · Builder
-
-Status      : Open to internships & collaborations
-
+Beyond Code : Mentor · Career Strategist · Community Builder
+Status      : Open to internships and collaborations
 ```
-
 
 <br clear="right"/>
 
