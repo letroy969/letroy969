@@ -51,10 +51,9 @@ Education   : Advanced Diploma — ICT Applications Development
 Currently   : Building UMP-CEIS, a React-based Emergency
               Response Platform with real-time triage,
               animated first aid simulations, Web Speech
-              API voice guidance, and live analytics.
+              API voice guidance, live analytics znd Ai intergration
 
-Certifications : 20+ across AWS · Azure · Google · Cisco
-Next Target    : AZ-104 → AZ-500 (Azure Security pathway)
+Certifications : 10+ across AWS · Azure · Google · Cisco
 
 Beyond Code : Mentor · Career Strategist · Community Builder
 Status      : Open to internships and collaborations
